@@ -1,0 +1,15 @@
+pyautogui
+pillow
+tk
+tkcap
+pydicom
+img2pdf
+opencv_python
+matplotlib
+pandas
+tensorflow==2.7.0
+python-xlib
+pep8
+pylint
+pytest
+coverage
